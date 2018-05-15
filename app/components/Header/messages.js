@@ -14,4 +14,8 @@ export default defineMessages({
     id: 'boilerplate.components.Header.features',
     defaultMessage: 'Features',
   },
+  testWqq: {
+    id: 'boilerplate.components.Header.testWqq',
+    defaultMessage: 'TestWqq',
+  },
 });
